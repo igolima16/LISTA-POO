@@ -1,0 +1,14 @@
+C:\Users\lima\source\repos\POO-04\POO-04\bin\Debug\net8.0\POO-04.exe
+C:\Users\lima\source\repos\POO-04\POO-04\bin\Debug\net8.0\POO-04.deps.json
+C:\Users\lima\source\repos\POO-04\POO-04\bin\Debug\net8.0\POO-04.runtimeconfig.json
+C:\Users\lima\source\repos\POO-04\POO-04\bin\Debug\net8.0\POO-04.dll
+C:\Users\lima\source\repos\POO-04\POO-04\bin\Debug\net8.0\POO-04.pdb
+C:\Users\lima\source\repos\POO-04\POO-04\obj\Debug\net8.0\POO-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lima\source\repos\POO-04\POO-04\obj\Debug\net8.0\POO-04.AssemblyInfoInputs.cache
+C:\Users\lima\source\repos\POO-04\POO-04\obj\Debug\net8.0\POO-04.AssemblyInfo.cs
+C:\Users\lima\source\repos\POO-04\POO-04\obj\Debug\net8.0\POO-04.csproj.CoreCompileInputs.cache
+C:\Users\lima\source\repos\POO-04\POO-04\obj\Debug\net8.0\POO-04.dll
+C:\Users\lima\source\repos\POO-04\POO-04\obj\Debug\net8.0\refint\POO-04.dll
+C:\Users\lima\source\repos\POO-04\POO-04\obj\Debug\net8.0\POO-04.pdb
+C:\Users\lima\source\repos\POO-04\POO-04\obj\Debug\net8.0\POO-04.genruntimeconfig.cache
+C:\Users\lima\source\repos\POO-04\POO-04\obj\Debug\net8.0\ref\POO-04.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JmOviZFCPjGYYnk4iImz0MNbNG01j8Qm0jVJCZbKadD8en2JwX+G4cjLyLcKpzDNVtrHOda/nKGD9IaFoCKwaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lima\\source\\repos\\POO-04\\POO-04\\POO-04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lima\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\lima\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\lima\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
