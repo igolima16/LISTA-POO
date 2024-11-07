@@ -1,0 +1,7 @@
+C:\Users\lima\source\repos\POO - 01\POO - 01\bin\Debug\POO - 01.exe.config
+C:\Users\lima\source\repos\POO - 01\POO - 01\bin\Debug\POO - 01.exe
+C:\Users\lima\source\repos\POO - 01\POO - 01\bin\Debug\POO - 01.pdb
+C:\Users\lima\source\repos\POO - 01\POO - 01\obj\Debug\POO - 01.csproj.AssemblyReference.cache
+C:\Users\lima\source\repos\POO - 01\POO - 01\obj\Debug\POO - 01.csproj.CoreCompileInputs.cache
+C:\Users\lima\source\repos\POO - 01\POO - 01\obj\Debug\POO - 01.exe
+C:\Users\lima\source\repos\POO - 01\POO - 01\obj\Debug\POO - 01.pdb
